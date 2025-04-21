@@ -46,7 +46,8 @@ Check out the live application: [NashSearch](https://nash-search.vercel.app/logi
 ![iimge](https://github.com/user-attachments/assets/7c40ff10-a0bc-4b81-980b-957a8c78bd1f)
 ![image](https://github.com/user-attachments/assets/9cad709a-6e3d-4bbd-89c0-cd8929184bc2)
 ![image](https://github.com/user-attachments/assets/4f1fb5bc-66d2-4024-b74b-3bd8e507da4a)
-<img width="1440" alt="Screenshot 2025-04-21 at 11 51 30 PM" src="https://github.com/user-attachments/assets/75724998-71e1-4ff0-9908-65cdf459a532" />
+![image](https://github.com/user-attachments/assets/51e5cd05-73f5-4d2c-9a1f-32f1fc4a1003)
+
 
 ## Setup Instructions
 
